@@ -1,0 +1,17 @@
+name: rmbg
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip=22.3.1
+  - pytorch=2.0.1
+  - torchvision=0.15.2
+  - cudatoolkit=11.7
+  - pip:
+    - gradio==3.35.2
+    - transformers==4.31.0
+    - timm==0.9.2
+    - pillow==10.0.0
+    - requests==2.31.0 

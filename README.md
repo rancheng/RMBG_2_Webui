@@ -17,8 +17,8 @@ This is a simple web application built with Gradio that uses the RMBG-2.0 model 
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/rancheng/RMBG_2_Webui
+   cd RMBG_2_Webui
    ```
 
 2. Create a conda environment using the provided YAML file:

@@ -87,8 +87,8 @@ If you encounter any errors:
 
 ## Example
 
-![Example of background removal](example.png)
+![Example of background removal](demo.png)
 
 ## License
 
-This project uses the RMBG-2.0 model from briaai. Please check their license for model usage terms. 
+This project uses the RMBG-2.0 model from [briaai](https://bria.ai/). Please check their license for model usage terms. 
